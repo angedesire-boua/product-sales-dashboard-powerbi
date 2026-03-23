@@ -106,24 +106,6 @@ These insights support strategic decisions such as product prioritization, inven
 
 ---
 
-## Project Structure
-
-product-sales-dashboard-powerbi
-│
-├── data
-│ └── sales_dataset.csv
-│
-├── images
-│ └── dashboard_preview.png
-│
-├── powerbi-dashboard
-│ └── Product_Sales_Dashboard.pbix
-│
-└── README.md
-
-
----
-
 ## How to Use the Dashboard
 
 1. Download the `.pbix` file from this repository.
